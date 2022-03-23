@@ -1,0 +1,32 @@
+   programa
+{
+	
+	funcao inicio()
+	{
+		real valor1, valor2 , soma , divisao, multiplicacao, subtracao
+		
+
+		escreva("\ndigite o valor 1\n")
+		leia(valor1)
+
+		escreva("\ndigite valor 2\n")
+		leia(valor2)
+
+		soma =  valor1-valor2 
+		divisao = valor1 / valor2
+		multiplicacao = valor1 * valor2
+		subtracao = valor1 - valor2
+
+		escreva("\no resultado é:", soma)
+		escreva("\no resultado é:", divisao)
+		escreva("\no resultado é:", multiplicacao)
+		escreva("\no resultado é:", subtracao)
+		
+		
+
+		
+
+		
+		
+	}
+}
